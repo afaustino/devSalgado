@@ -5,9 +5,10 @@
 [![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](#)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-salgado-faustino-65846577/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/andersonsalgado/?locale=pt_BR)
-[![Gmail](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andersonsalgadofaustino/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andersonsalgadofaustino/)
 
-![Salgado GitHub stats](https://github-readme-stats.vercel.app/api?username=asalgado&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Salgado GitHub stats](https://github-readme-stats.vercel.app/api?username=asalgado&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afaustino&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que eu uso no meu dia
 
 <div sytle="display: inline_block"><br/>
@@ -23,4 +24,4 @@
     
 </div><br/>
 
-"A programação é uma jornada de descoberta contínua, onde cada linha de código é uma nova oportunidade de aprendizado."
+"A programação é uma jornada de descoberta contínua, onde cada linha de código é uma nova oportunidade de aprendizado."💻
